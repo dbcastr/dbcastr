@@ -1,4 +1,13 @@
-### Hi, I'm Daniel! &nbsp;&nbsp;<sup> blank .</sup>
+### Hi, I'm Daniel! 
+
+What interests me the most about computer science is the problem solving aspect. For as long as I can remember, I have always loved videogames. The more frustrating a boss fight or level is, the more satisfaction I feel after winning. This is something that I experience often when writing code. 
+
+My first experience writing code happened in highschool. I was lucky enough to be accepted into a program called Google Code Next. In this program, Google employees mentored me in learning the very basic princples of programming and Javascript. This is where my first game Arkala was made. (Looking back, it's design could be improved)
+
+Another thing I really enjoy about computer science is that I'm always learning. There is so much out there that it would be impossible to be bored. At one point I was interested in cybersecurity and participated in online CTF's. Now, my goal is to become a software engineer.
+
+
+&nbsp;&nbsp;<sup> blank .</sup>
 
 ----
 
@@ -17,9 +26,9 @@
 
 **Amazon Future Engineer 2027**
 <br/>
-**Student at UIC** 
+**UIC - Gradutation Date 2027** 
 
 ----
 <a href="https://www.linkedin.com/in/danbcastro/">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Daniel's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
