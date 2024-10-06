@@ -7,8 +7,6 @@ My first experience writing code happened in highschool. I was lucky enough to b
 Another thing I really enjoy about computer science is that I'm always learning. There is so much out there that it would be impossible to be bored. At one point I was interested in cybersecurity and participated in online CTF's. Now, my goal is to become a software engineer.
 
 
-&nbsp;&nbsp;<sup> blank .</sup>
-
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
@@ -22,8 +20,7 @@ Another thing I really enjoy about computer science is that I'm always learning.
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
 ![IntelliJ](https://img.shields.io/static/v1?logo=intellij-idea&label=&message=IntelliJIDEA&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
+
 
 **Amazon Future Engineer 2027**
 <br/>
