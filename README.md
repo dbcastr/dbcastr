@@ -13,6 +13,7 @@ Another thing I really enjoy about computer science is that I'm always learning.
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![Java](https://img.shields.io/static/v1?logo=openJDK&label=&message=Java&color=36465D&logoColor=AAA&style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=AAA&style=flat-square&color=36465D)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=Go&color=36465D&logoColor=AAA&style=flat-square)
 
 
 
@@ -21,7 +22,6 @@ Another thing I really enjoy about computer science is that I'm always learning.
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
 ![IntelliJ](https://img.shields.io/static/v1?logo=intellij-idea&label=&message=IntelliJIDEA&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-![go](https://img.shields.io/static/v1?logo=go&label=&message=Go&color=36465D&logoColor=AAA&style=flat-square)
 
 
 **Amazon Future Engineer 2027**
