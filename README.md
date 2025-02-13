@@ -1,12 +1,5 @@
 ### Hi, I'm Daniel! 
 
-What interests me the most about computer science is the problem solving aspect. The more frustrating a challenge is, the more satisfaction I feel after figuring it out. This is what I love most about programming. 
-
-My first experience writing code was in a program called Google Code Next. In this program, Google engineers taught me basic princples of programming and Javascript. This is where my first game Arkala was made.
-
-Another thing I really enjoy about computer science is that I'm always learning. At one point I was interested in cybersecurity and participated in online CTF's. Now, my goal is to become a software engineer.
-
-
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
